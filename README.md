@@ -19,13 +19,13 @@ By employing RFM analysis, businesses can tailor their marketing efforts, improv
 - Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
 ## II. Data Visualization with Python
 - **Histogram distribution of each variable**
-https://github.com/user-attachments/assets/dd049006-7eb2-4c51-bb00-bb636a7e251d
-https://github.com/user-attachments/assets/208314f8-cede-408c-ae7a-3c5f2a825cca
-https://github.com/user-attachments/assets/95ee1823-a35b-4e39-b71c-8d6ececde6b3
+![](https://github.com/user-attachments/assets/dd049006-7eb2-4c51-bb00-bb636a7e251d)
+![](https://github.com/user-attachments/assets/208314f8-cede-408c-ae7a-3c5f2a825cca)
+![](https://github.com/user-attachments/assets/95ee1823-a35b-4e39-b71c-8d6ececde6b3)
 - **Treemap of RFM Segments of Customer Count**
-https://github.com/user-attachments/assets/8e5d0300-79e7-4b33-99a7-b5b9e35d732b
+![](https://github.com/user-attachments/assets/8e5d0300-79e7-4b33-99a7-b5b9e35d732b)
 - **Treemap of RFM Segments of Total Sales**
-https://github.com/user-attachments/assets/0f351248-cfbe-459d-be98-755cddaceb36
+![](https://github.com/user-attachments/assets/0f351248-cfbe-459d-be98-755cddaceb36)
 ## III. Insights
 - **Focus on Champions Customers:**
 Insight: The Champions group represents the highest percentage among all groups (19.22%) and contributes the most to revenue (62.92%).
